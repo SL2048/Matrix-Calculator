@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1488030212 source:c:\e1\hardhome\data structure\assi\a1_20120084\a1_p3_20120084\main.cpp
+	<iostream>
+	"MatrixCalculator.h"
+
+1488022110 source:c:\e1\hardhome\data structure\assi\a1_20120084\a1_p3_20120084\src\matrix.cpp
+	"Matrix.h"
+
+1488027553 c:\e1\hardhome\data structure\assi\a1_20120084\a1_p3_20120084\include\matrix.h
+	<iostream>
+
+1488029907 c:\e1\hardhome\data structure\assi\a1_20120084\a1_p3_20120084\include\matrixcalculator.h
+	"Matrix.h"
+	<iostream>
+
+1488030433 source:c:\e1\hardhome\data structure\assi\a1_20120084\a1_p3_20120084\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+
